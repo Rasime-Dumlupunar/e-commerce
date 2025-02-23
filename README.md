@@ -1,9 +1,10 @@
 # E-Ticaret Projesi
 
+
 Bu proje, **HTML, CSS ve JavaScript** kullanılarak geliştirilmiş basit bir e-ticaret uygulamasıdır.  
 Kullanıcılar ürünleri listeleyebilir, sepete ekleyebilir, sepetten çıkarabilir ve ürün adetlerini artırıp azaltabilir.
 
-## 🚀 Özellikler
+## Özellikler
 
 - **Ürünlerin listelenmesi**:  
   Ürünler, dinamik olarak **HTML ve CSS** kullanılarak şık bir arayüzle listelenir.
